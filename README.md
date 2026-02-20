@@ -13,8 +13,6 @@ A simple and user-friendly To-Do List application to help you organize tasks, ma
 
 ## 🛠️ Tech Stack
 
-*(Update this section based on your project)*
-
 - Frontend: HTML, CSS, JavaScript  
 - Backend: None / Node.js / Python / etc.  
 - Database: Local Storage / MongoDB / SQLite / etc.
